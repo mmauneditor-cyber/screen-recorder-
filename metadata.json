@@ -1,0 +1,6 @@
+{
+  "name": "Screen Recorder Pro",
+  "description": "Professional-grade 4K UHD screen recorder with 60 FPS hardware acceleration, dual audio mixing, facecam overlay, and real-time annotations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
